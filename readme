@@ -1,0 +1,1 @@
+python src/gratia-gold --config config/gratia-gold.cfg --verbose
